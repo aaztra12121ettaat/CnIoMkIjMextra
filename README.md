@@ -2,4 +2,4 @@
 
 ## Repo CIMIMextra
 
-### A breve i materiali da studiare
+### A breve l'elenco dei materiali da studiare

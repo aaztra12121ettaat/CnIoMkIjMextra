@@ -1,4 +1,4 @@
-## I materiali sono disponibili ai seguenti indirizzi, una eventuale ulteriore aggiunta sarà inserita entro fine maggio.
+## I materiali per sostenere l'esame sono disponibili ai seguenti indirizzi
 
 
 ### Da studiare 
@@ -22,3 +22,7 @@
 ### Da leggere (facoltativo)
 
 - http://www.treccani.it/enciclopedia/musica-elettronica-ed-elettronica-musicale_(Enciclopedia-della-Scienza-e-della-Tecnica)/
+
+
+### Una eventuale ulteriore aggiunta sarà inserita entro fine maggio.
+

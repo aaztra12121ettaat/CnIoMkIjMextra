@@ -12,7 +12,7 @@
 - http://www.maurograziani.org/text_pages/acoustic/acustica/MG_Acustica06.html
 
 - https://www.virtual-sound.com/demo/IlSuonoVirtuale.pdf
-"Che cosa è Csound"; Cap.1 Par.1,2,3,4,5; Cap.2 Par.1; Cap.3 Par.1; Cap.6 Par.1,2
+- del link precedente solo queste parti: "Che cosa è Csound"; Cap.1 Par.1,2,3,4,5; Cap.2 Par.1; Cap.3 Par.1; Cap.6 Par.1,2
 
 - www.musicainformatica.it/argomenti/csound.php
 - www.musicainformatica.it/argomenti/maxmsp-2.php 

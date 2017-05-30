@@ -22,6 +22,7 @@
 ### Da leggere (facoltativo)
 
 - http://www.treccani.it/enciclopedia/musica-elettronica-ed-elettronica-musicale_(Enciclopedia-della-Scienza-e-della-Tecnica)/
+- http://www.dei.unipd.it/~musica/Dispense/VidolinSuonare.pdf 
 
 
 ### Una eventuale ulteriore aggiunta sarà inserita entro fine maggio.
